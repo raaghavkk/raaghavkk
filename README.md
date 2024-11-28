@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaghavkk&label=Profile%20views&color=0e75b6&style=flat" alt="raaghavkk" /> </p>
 
-- 🔭 I’m currently working on **ShatranjBot**
+- 🔭 I’m currently working on **Microsoft AI Hackathon for Neurodiversity** (and also applying for placements!)
 
 - 🌱 I’m currently learning **C++**
 
